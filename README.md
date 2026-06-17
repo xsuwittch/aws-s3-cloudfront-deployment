@@ -1,9 +1,9 @@
 # aws-s3-cloudfront-deployment
 **Live:** https://d2bilue0rk2rbp.cloudfront.net/  
-Static site deployed on AWS — private S3 bucket served through CloudFront with OAC. No direct bucket exposure.
+Static site deployed on AWS  private S3 bucket served through CloudFront with OAC. No direct bucket exposure.
 # Deploying a Static Site Securely on AWS S3 + CloudFront
 
-Aiming for a solid understanding of AWS, I embarked on something basic —
+Aiming for a solid understanding of AWS, I embarked on something basic 
 correctly hosting a static site instead of just making the bucket public. 
 
 ## Structure
